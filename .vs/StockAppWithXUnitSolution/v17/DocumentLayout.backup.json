@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{215D7558-EC9E-421A-832F-B38FD8147DF4}|Services\\Services.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215D7558-EC9E-421A-832F-B38FD8147DF4}|Services\\Services.csproj|solutionrelative:services\\finnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\views\\trade\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\controllers\\tradecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226045B2-492E-4606-8B41-E1BAE3986834}|Tests\\Tests.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\tests\\stocksservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226045B2-492E-4606-8B41-E1BAE3986834}|Tests\\Tests.csproj|solutionrelative:tests\\stocksservicetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226045B2-492E-4606-8B41-E1BAE3986834}|Tests\\Tests.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\tests\\addtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226045B2-492E-4606-8B41-E1BAE3986834}|Tests\\Tests.csproj|solutionrelative:tests\\addtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215D7558-EC9E-421A-832F-B38FD8147DF4}|Services\\Services.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\services\\math12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215D7558-EC9E-421A-832F-B38FD8147DF4}|Services\\Services.csproj|solutionrelative:services\\math12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{215D7558-EC9E-421A-832F-B38FD8147DF4}|Services\\Services.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\services\\stockservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{215D7558-EC9E-421A-832F-B38FD8147DF4}|Services\\Services.csproj|solutionrelative:services\\stockservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\interfaces\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\interfaces\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\interfaces\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\interfaces\\ifinnhubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\helpers\\validationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\helpers\\datenotolderthan2000attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\helpers\\datenotolderthan2000attribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\helpers\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\helpers\\tradingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\dto\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\stocktrade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\sellorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60A60DA4-7143-4A2D-A440-6A6A5B376252}|ServiceContracts\\ServiceContracts.csproj|solutionrelative:servicecontracts\\dto\\buyorderrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D1D719-E155-441B-8D97-FE5B5DE1C0DF}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D1D719-E155-441B-8D97-FE5B5DE1C0DF}|Entities\\Entities.csproj|solutionrelative:entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{78D1D719-E155-441B-8D97-FE5B5DE1C0DF}|Entities\\Entities.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78D1D719-E155-441B-8D97-FE5B5DE1C0DF}|Entities\\Entities.csproj|solutionrelative:entities\\sellorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\wwwroot\\scripts\\finnhubscript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{226045B2-492E-4606-8B41-E1BAE3986834}|Tests\\Tests.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{226045B2-492E-4606-8B41-E1BAE3986834}|Tests\\Tests.csproj|solutionrelative:tests\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\java\\AppData\\Roaming\\Microsoft\\UserSecrets\\1d1c01f4-1c8c-4918-8f5f-6a7814d2d44c\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|c:\\users\\java\\desktop\\harsha barsha\\section 15\\assignment\\stockappwithxunitsolution\\stockappwithxunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A25978-A412-40B2-8031-BFE6802E3372}|StockAppWithXUnit\\StockAppWithXUnit.csproj|solutionrelative:stockappwithxunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\Trade\\Index.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\Views\\Trade\\Index.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\Trade\\Index.cshtml",
+              "RelativeToolTip": "StockAppWithXUnit\\Views\\Trade\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:02:38.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "StockAppWithXUnit\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:03:44.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StockAppWithXUnit\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:07:16.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\appsettings.json",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\appsettings.json",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\appsettings.json",
+              "RelativeToolTip": "StockAppWithXUnit\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T13:47:41.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Services\\FinnhubService.cs",
+              "RelativeDocumentMoniker": "Services\\FinnhubService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Services\\FinnhubService.cs",
+              "RelativeToolTip": "Services\\FinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:18:56.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StockAppWithXUnit\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACIAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-08T15:05:52.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TradeController.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Controllers\\TradeController.cs",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\Controllers\\TradeController.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Controllers\\TradeController.cs",
+              "RelativeToolTip": "StockAppWithXUnit\\Controllers\\TradeController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:02:25.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StocksServiceTest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Tests\\StocksServiceTest.cs",
+              "RelativeDocumentMoniker": "Tests\\StocksServiceTest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Tests\\StocksServiceTest.cs",
+              "RelativeToolTip": "Tests\\StocksServiceTest.cs",
+              "ViewState": "AgIAADUBAAAAAAAAAAAwwOwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:43:50.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddTest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Tests\\AddTest.cs",
+              "RelativeDocumentMoniker": "Tests\\AddTest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Tests\\AddTest.cs",
+              "RelativeToolTip": "Tests\\AddTest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:38:37.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Math12.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Services\\Math12.cs",
+              "RelativeDocumentMoniker": "Services\\Math12.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Services\\Math12.cs",
+              "RelativeToolTip": "Services\\Math12.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T10:37:36.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StockServices.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Services\\StockServices.cs",
+              "RelativeDocumentMoniker": "Services\\StockServices.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Services\\StockServices.cs",
+              "RelativeToolTip": "Services\\StockServices.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:58:25.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BuyOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderResponse.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAqwEEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:04:08.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Interfaces\\IStockService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Interfaces\\IStockService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Interfaces\\IStockService.cs",
+              "RelativeToolTip": "ServiceContracts\\Interfaces\\IStockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:55:28.33Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IFinnhubService.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Interfaces\\IFinnhubService.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Interfaces\\IFinnhubService.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Interfaces\\IFinnhubService.cs",
+              "RelativeToolTip": "ServiceContracts\\Interfaces\\IFinnhubService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:16:15.135Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ValidationHelper.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "RelativeToolTip": "ServiceContracts\\Helpers\\ValidationHelper.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T20:47:29.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DateNotOlderThan2000Attribute.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Helpers\\DateNotOlderThan2000Attribute.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Helpers\\DateNotOlderThan2000Attribute.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Helpers\\DateNotOlderThan2000Attribute.cs",
+              "RelativeToolTip": "ServiceContracts\\Helpers\\DateNotOlderThan2000Attribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:09:35.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "TradingOptions.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Helpers\\TradingOptions.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\Helpers\\TradingOptions.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\Helpers\\TradingOptions.cs",
+              "RelativeToolTip": "ServiceContracts\\Helpers\\TradingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T16:00:56.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StockTrade.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\StockTrade.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\StockTrade.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\StockTrade.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\StockTrade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T15:00:48.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SellOrderResponse.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderResponse.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwDUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:06:23.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SellOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\SellOrderRequest.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:05:29.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BuyOrderRequest.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeDocumentMoniker": "ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "RelativeToolTip": "ServiceContracts\\DTO\\BuyOrderRequest.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T14:02:33.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\BuyOrder.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:50:07.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SellOrder.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Entities\\SellOrder.cs",
+              "RelativeDocumentMoniker": "Entities\\SellOrder.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Entities\\SellOrder.cs",
+              "RelativeToolTip": "Entities\\SellOrder.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:50:43.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Tests\\Usings.cs",
+              "RelativeDocumentMoniker": "Tests\\Usings.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\Tests\\Usings.cs",
+              "RelativeToolTip": "Tests\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T09:58:25.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FinnhubScript.js",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+              "RelativeToolTip": "StockAppWithXUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-01-09T09:28:06.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\java\\AppData\\Roaming\\Microsoft\\UserSecrets\\1d1c01f4-1c8c-4918-8f5f-6a7814d2d44c\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1d1c01f4-1c8c-4918-8f5f-6a7814d2d44c\\secrets.json",
+              "ToolTip": "C:\\Users\\java\\AppData\\Roaming\\Microsoft\\UserSecrets\\1d1c01f4-1c8c-4918-8f5f-6a7814d2d44c\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\1d1c01f4-1c8c-4918-8f5f-6a7814d2d44c\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-08T15:12:40.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Program.cs",
+              "RelativeDocumentMoniker": "StockAppWithXUnit\\Program.cs",
+              "ToolTip": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\Program.cs",
+              "RelativeToolTip": "StockAppWithXUnit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T13:46:47.741Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

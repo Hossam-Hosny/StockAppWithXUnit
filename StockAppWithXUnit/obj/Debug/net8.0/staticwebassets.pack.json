@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+      "PackagePath": "staticwebassets\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Id": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.StockAppWithXUnit.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.StockAppWithXUnit.props",
+      "PackagePath": "build\\StockAppWithXUnit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.StockAppWithXUnit.props",
+      "PackagePath": "buildMultiTargeting\\StockAppWithXUnit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.StockAppWithXUnit.props",
+      "PackagePath": "buildTransitive\\StockAppWithXUnit.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

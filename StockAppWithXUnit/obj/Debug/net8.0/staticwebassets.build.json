@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "wBLk833JtcU2My5UpiCwa5BNvXWWh/TWvjQ0jRvnNSM=",
+  "Source": "StockAppWithXUnit",
+  "BasePath": "_content/StockAppWithXUnit",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "StockAppWithXUnit\\wwwroot",
+      "Source": "StockAppWithXUnit",
+      "ContentRoot": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\",
+      "BasePath": "_content/StockAppWithXUnit",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\Scripts\\FinnhubScript.js",
+      "SourceId": "StockAppWithXUnit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\",
+      "BasePath": "_content/StockAppWithXUnit",
+      "RelativePath": "Scripts/FinnhubScript.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Scripts\\FinnhubScript.js"
+    },
+    {
+      "Identity": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\StyleSheet.css",
+      "SourceId": "StockAppWithXUnit",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\java\\Desktop\\Harsha Barsha\\Section 15\\Assignment\\StockAppWithXUnitSolution\\StockAppWithXUnit\\wwwroot\\",
+      "BasePath": "_content/StockAppWithXUnit",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
